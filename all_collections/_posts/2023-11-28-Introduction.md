@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Introduction
-date: 11/28/2023
-categories: [Intro]
+date: 2023-11-28
+categories: ["Intro"]
 ---
 
 Hello Everyone!
