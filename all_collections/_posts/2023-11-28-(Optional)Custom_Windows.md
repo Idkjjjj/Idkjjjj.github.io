@@ -2,7 +2,7 @@
 layout: post
 title: 1.Custom Windows (Optional)
 date: 2023-11-28
-categories: ["Intro"]
+categories: 
 ---
 
 This is the first step and it is completely optional 
