@@ -20,7 +20,7 @@ main:
 
 sidebar:
   - identifier: more
-    name: Still need help?
+    name: FAQS
     params:
       type: separator
     weight: 1
@@ -29,6 +29,6 @@ sidebar:
     pageRef: "/community"
     weight: 2
   - identifier: hugoDocs
-    name: "Hugo Docs ↗"
-    url: "https://docs.hugoblox.com"
+    name: "Discord ↗"
+    url: "https://"
     weight: 3
